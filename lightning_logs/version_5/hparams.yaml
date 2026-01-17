@@ -1,0 +1,6 @@
+batch_size: 1024
+embedding_dim: 64
+lr: 0.001
+num_cells: 3
+num_items: 8226
+num_users: 10191
