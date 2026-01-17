@@ -1,4 +1,4 @@
-user_id:token,item_id:token,timestamp,rating:float
+user_id,item_id,timestamp,rating
 A2B8DJ0CKN9FAO,0615115187,2003-04-18,1.0
 AUDSM2CTLLW1Q,0615115187,2002-06-04,1.0
 A96K1ZGW56S2I,0615115187,2002-03-15,1.0
